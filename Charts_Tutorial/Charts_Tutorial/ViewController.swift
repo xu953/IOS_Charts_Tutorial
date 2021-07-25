@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Charts_Tutorial
 //
-//  Created by Sophia Chen on 7/22/21.
+//  Created by Zhenyu Xu on 7/22/21.
 //
 
 import UIKit
